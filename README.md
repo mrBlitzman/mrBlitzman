@@ -42,7 +42,7 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 
 ## Projects
 
-🌀 Full Stack E-Commerce Website (*2024*)  
+🌀 Full Stack Single Vendor E-Commerce Website "Vappus" (*2024*)  
 🌀 Flood Early Alert System (*Electronics - Transistor Circuit*) (*2023*)  
 🌀 KAKNUS v1 VTOL Police-UAV (*2021*)  
 🌀 Autonomous No-Remote Mini Model Car (*2018*)  

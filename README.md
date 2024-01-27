@@ -31,7 +31,6 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 🔘 Visual Studio Code  
 🟢 FL Studio (In Progress)  
 
-**---------------------------------**
 
 ## Projects
 
@@ -40,13 +39,12 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 🌀 KAKNUS v1 VTOL Police-UAV (2021)  
 🌀 Autonomous No-Remote Mini Model Car (2018)  
 
-**---------------------------------**
+
 
 ## Achievements
 
 ⚜️ TUBITAK Science Competition Regional First Place and Turkey Finalist in Geography (2023)  
 
-**---------------------------------**
 
 ## Socials
 

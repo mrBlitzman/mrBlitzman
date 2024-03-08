@@ -7,18 +7,20 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 
  **Skills**  
  
- ♦ Full Stack Web Developer  
- ♦ Professional After Effects Video Editor  
- ♦ Graphic Designer  
- ♦ Electronic and Robotics Developer  
- ♦ VTOL UAV Developer  
- 🟢 FL Studio Producer(*In Progress*)  
+ ♦ Full Stack Web Developing  
+ ♦ Professional After Effects Video Editing  
+ ♦ Graphic Designing  
+ ♦ Electronic and Robotics Developing  
+ ♦ VTOL UAV Developing  
+ 🟢 MERN Stack Web Developing (*In progress*)  
+ 🟢 EasyEDA PCB Designing (*In progress*)  
+ 🟢 FL Studio Music Producing(*In progress*)  
 
  **Languages**  
  
  💠 Turkish (*Native*)  
  💠 English (*B2-Upper*)  
- 💠 Deutsch (*A1*)  
+ 💠 Deutsch (*A1-Beginner*)  
 
 ## Programming Languages & Programs
 
@@ -32,12 +34,23 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 ✴️ PHP  
 ✴️ SQL  
 
+**Libraries and Frameworks**
+
+🔷 Node.js
+🔷 Express.js
+🔷 TailWindCss
+🔷 Ejs
+🔷 Pug
+🔷 PHPMailer(SMTP)
+
 **Programs**
 
 🔘 Adobe After Effects  
 🔘 Mission Planner & QGC  
 🔘 Visual Studio Code  
-🟢 FL Studio (*In Progress*)  
+🔘 Arduino IDE
+🟢 EasyEDA (*In progress*)
+🟢 FL Studio (*In progress*)  
 
 
 ## Projects
@@ -46,7 +59,6 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 🌀 Flood Early Alert System (*Electronics - Transistor Circuit*) (*2023*)  
 🌀 KAKNUS v1 VTOL Police-UAV (*2021*)  
 🌀 Autonomous No-Remote Mini Model Car (*2018*)  
-
 
 
 ## Achievements

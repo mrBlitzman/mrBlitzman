@@ -14,7 +14,7 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
  ♦ VTOL UAV Developing  
  🟢 MERN Stack Web Developing (*In progress*)  
  🟢 EasyEDA PCB Designing (*In progress*)  
- 🟢 FL Studio Music Producing(*In progress*)  
+ 🟢 FL Studio Music Producing (*In progress*)  
 
  **Languages**  
  

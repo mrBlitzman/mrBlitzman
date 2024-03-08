@@ -22,9 +22,9 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
  💠 English (*B2-Upper*)  
  💠 Deutsch (*A1-Beginner*)  
 
-## Programming Languages & Programs
+## Programming Languages & Programs  
 
-**Programming Languages**
+**Programming Languages**  
 
 ✴️ Arduino  
 ✴️ Python  
@@ -34,22 +34,22 @@ My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneu
 ✴️ PHP  
 ✴️ SQL  
 
-**Libraries and Frameworks**
+**Libraries and Frameworks**  
 
-🔷 Node.js
-🔷 Express.js
-🔷 TailWindCss
-🔷 Ejs
-🔷 Pug
-🔷 PHPMailer(SMTP)
+🔷 Node.js  
+🔷 Express.js  
+🔷 TailWindCss  
+🔷 Ejs  
+🔷 Pug  
+🔷 PHPMailer(SMTP)  
 
 **Programs**
 
 🔘 Adobe After Effects  
 🔘 Mission Planner & QGC  
 🔘 Visual Studio Code  
-🔘 Arduino IDE
-🟢 EasyEDA (*In progress*)
+🔘 Arduino IDE  
+🟢 EasyEDA (*In progress*)  
 🟢 FL Studio (*In progress*)  
 
 

@@ -1,7 +1,7 @@
 ## About Me
 
 **Hey There** 👋  
-My name is Ali Ravza Barlak. I am from Turkey, 16 years old. I am an enterpreneur which wants running his own technology company that sector 1st. I am passionated in this goal and working for this since my 8s.
+My name is Ali Ravza Barlak. I am from Turkey, 17 years old. I am an enterpreneur which wants running his own technology company that sector 1st. I am passionated in this goal and working for this since my 8s.
 
  ## Skills & Languages
 

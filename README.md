@@ -14,7 +14,7 @@ My name is Ali Ravza Barlak. I am from Turkey, 17 years old. I am an entrepreneu
 ♦ **Graphic Designing**  
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="24px" height="24px" alt="Photoshop" />  
 ♦ **Electronic and Robotics Developing**  
-<img src="https://img.icons8.com/color/48/000000/robot.png" width="24px" height="24px" alt="Robotics" />  
+<img src="https://img.icons8.com/color/48/000000/robot.png" width="32px" height="32px" alt="Robotics" />  
 ♦ **VTOL UAV Developing**  
 <img src="https://img.icons8.com/color/48/000000/drone.png" width="24px" height="24px" alt="Drone" />  
 🟢 **MERN Stack Web Developing** (*In progress*)  

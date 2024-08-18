@@ -1,76 +1,67 @@
-## About Me
+# About Me
 
-**Hey There** 👋  
-My name is Ali Ravza Barlak. I am from Turkey, 17 years old. I am an enterpreneur which wants running his own technology company that sector 1st. I am passionated in this goal and working for this since my 8s.
+**Hello!** 👋  
+I'm Ali Ravza Barlak from Turkey, and I'm 17 years old. As a passionate developer, my goal is to excel in every technology-related field I pursue. I've been dedicated to this journey since I was 8 years old.
 
- ## Skills & Languages
+## Skills & Expertise
 
- **Skills**  
- 
- ♦ Full Stack Web Developing  
- ♦ Professional After Effects Video Editing  
- ♦ Graphic Designing  
- ♦ Electronic and Robotics Developing  
- ♦ VTOL UAV Developing  
- 🟢 MERN Stack Web Developing (*In progress*)  
- 🟢 EasyEDA PCB Designing (*In progress*)  
- 🟢 FL Studio Music Producing (*In progress*)  
+**Core Skills**  
+- **Full Stack Web Development**  
+- **Professional Video Editing with After Effects**  
+- **Graphic Design**  
+- **Electronic and Robotics Development**  
+- **VTOL UAV Design and Development**  
+- 🟢 **MERN Stack Web Development** (*Currently in progress*)  
 
- **Languages**  
- 
- 💠 Turkish (*Native*)  
- 💠 English (*B2-Upper*)  
- 💠 Deutsch (*A1-Beginner*)  
+**Languages**  
+- 💠 **Turkish** (*Native Speaker*)  
+- 💠 **English** (*B2 - Upper Intermediate*)  
+- 💠 **German** (*A1 - Beginner*)  
 
-## Programming Languages & Programs  
+## Programming Languages & Tools
 
 **Programming Languages**  
+- ✴️ **Arduino**  
+- ✴️ **Python**  
+- ✴️ **HTML**  
+- ✴️ **CSS**  
+- ✴️ **JavaScript**  
+- ✴️ **PHP**  
+- ✴️ **SQL**  
 
-✴️ Arduino  
-✴️ Python  
-✴️ HTML  
-✴️ CSS  
-✴️ JavaScript  
-✴️ PHP  
-✴️ SQL  
+**Libraries & Frameworks**  
+- 🔷 **Node.js**  
+- 🔷 **Express.js**  
+- 🔷 **Tailwind CSS**  
+- 🔷 **EJS**  
+- 🔷 **Pug**  
+- 🔷 **PHPMailer (SMTP)**
+- 🟢 **React** (*Currently in progress*)
 
-**Libraries and Frameworks**  
-
-🔷 Node.js  
-🔷 Express.js  
-🔷 TailWindCss  
-🔷 Ejs  
-🔷 Pug  
-🔷 PHPMailer(SMTP)  
-
-**Programs**
-
-🔘 Adobe After Effects  
-🔘 Mission Planner & QGC  
-🔘 Visual Studio Code  
-🔘 Arduino IDE  
-🟢 EasyEDA (*In progress*)  
-🟢 FL Studio (*In progress*)  
-
+**Tools & Software**  
+- 🔘 **Adobe After Effects**  
+- 🔘 **Mission Planner & QGC**  
+- 🔘 **Visual Studio Code**  
+- 🔘 **Arduino IDE**  
 
 ## Projects
 
-🌀 Full Stack Single Vendor E-Commerce Website "Vappus" (*2024*)  
-🌀 Flood Early Alert System (*Electronics - Transistor Circuit*) (*2023*)  
-🌀 KAKNUS v1 VTOL Police-UAV (*2021*)  
-🌀 Autonomous No-Remote Mini Model Car (*2018*)  
-
+- 🌀 **"Vappus"** - A full-stack single-vendor e-commerce website (*2024*)  
+- 🌀 **Flood Early Alert System** - Electronics project featuring a transistor circuit (*2023*)  
+- 🌀 **KAKNUS v1** - VTOL UAV designed for police applications (*2021*)  
+- 🌀 **Autonomous Mini Model Car** - Remote-free autonomous vehicle (*2018*)  
 
 ## Achievements
 
-⚜️ TUBITAK Science Competition Regional First Place and Turkey Finalist in Geography (*2023*)  
+- ⚜️ **First Place in TUBITAK Science Competition Regional and Finalist in National Geography** (*2023*)  
 
+## Connect with Me
 
-## Socials
+Feel free to reach out or follow me on social media:
 
-[Email](mailto:alrbbusiness@gmail.com)  
-[Instagram](https://www.instagram.com/alirbarlak/)  
-[Linkedln](https://www.linkedin.com/in/aliravzabarlak/)  
-[Youtube](https://youtube.com/c/xsono)  
-[Discord](https://discord.com/invite/pSkUqyYt)  
-[X](https://x.com/alibarlak_)  
+- [Email](mailto:alrbbusiness@gmail.com)  
+- [Instagram](https://www.instagram.com/alirbarlak/)  
+- [LinkedIn](https://www.linkedin.com/in/aliravzabarlak/)  
+- [YouTube](https://youtube.com/c/xsono)  
+- [Discord](https://discord.com/invite/pSkUqyYt)  
+- [X](https://x.com/alibarlak_)  

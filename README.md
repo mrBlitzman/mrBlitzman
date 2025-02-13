@@ -39,8 +39,7 @@ I specialize in software development, focusing on creating scalable, efficient, 
 - 🔷 **MongoDB & Mongoose**  
 - 🔷 **JSON**  
 - 🔷 **REST API**  
-- 🔷 **GraphQL**  
-- 🔷 **Axios**  
+- 🔷 **GraphQL**   
 - 🔷 **JQuery**  
 - 🔷 **Sass**  
 - 🔷 **EJS / Pug**  

@@ -53,9 +53,9 @@ I specialize in software development, focusing on creating scalable, efficient, 
 - 💻 DigitalOcean  
 
 **🚀 Projects**
-- 🌀 "Fetchant" - A customizable E-commerce System Architecture powered by GraphQL and Node.js, developed for commercial use on [wabelz.com](https://wabelz.com){:target="_blank"}  (Currently developing)  
-- 🌀 "Wabelz.com" - A web agency focusing on user experience with a [website](https://wabelz.com){:target="_blank"}  developed entirely by me (2024)  
-- 🌀 "Barlak.com.tr" - My portfolio [website](https://barlak.com.tr){:target="_blank"}  (2024)  
+- 🌀 "Fetchant" - A customizable E-commerce System Architecture powered by GraphQL and Node.js, developed for commercial use on [wabelz.com](https://wabelz.com) (Currently developing)  
+- 🌀 "Wabelz.com" - A web agency focusing on user experience with a [website](https://wabelz.com) developed entirely by me (2024)  
+- 🌀 "Barlak.com.tr" - My portfolio [website](https://barlak.com.tr) (2024)  
 - 🌀 "Vappus" - Full-stack single-vendor e-commerce website (2023)  
 
 **👷‍♂️ Experiences**  
@@ -112,7 +112,7 @@ I create clean and effective designs for various projects, such as logos, social
 Feel free to reach out or follow me on social media:
 
 - [Email](mailto:aliravzabarlak@gmail.com)  
-- [Instagram](https://www.instagram.com/alirbarlak/){:target="_blank"}  
-- [X](https://www.x.com/AliTheBarlak/){:target="_blank"}  
-- [LinkedIn](https://www.linkedin.com/in/aliravzabarlak/){:target="_blank"}
+- [Instagram](https://www.instagram.com/alirbarlak/)
+- [X](https://www.x.com/AliTheBarlak/)
+- [LinkedIn](https://www.linkedin.com/in/aliravzabarlak/)
 

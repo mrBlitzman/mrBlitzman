@@ -6,14 +6,13 @@ I'm Ali Ravza Barlak, a passionate developer and entrepreneur from Turkey. My jo
 ## Skills & Expertise
 
 **Skills & Expertise**  
-- Full Stack Web Development  
 - Strategy Planning  
-- Project Management  
+- Project Management 
+- Full Stack Web Development   
 - Professional Video Editing  
 - Graphic Design  
 - Electronic & Robotics Development  
-- VTOL Drone Design & Development  
-- MERN Stack Web Development  
+- MERN Stack Web Development
 
 **Languages**  
 - 💠 Turkish (*Native Speaker*)  

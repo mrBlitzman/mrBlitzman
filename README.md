@@ -96,15 +96,16 @@ I specialize in electronics and robotics, working on circuit design, sensor inte
 I create clean and effective designs for various projects, such as logos, social media content, and web graphics. In video editing, I focus on turning raw footage into engaging, well-edited videos, using the right cuts, effects, and transitions to enhance the final result.
 
 **Core Areas**
+- 🔹 Professional Video Editing
 - 🔹 Branding & UI/UX Design
 - 🔹 Motion Graphics
-- 🔹 Professional Video Editing
 
 **Software & Tools**
 - 🎬 Adobe After Effects
 - 🎬 Adobe Premiere Pro
 - 🎨 Adobe Illustrator
 - 🎨 Figma
+- 🎨 Canva
 - 
 ## Connect with Me
 

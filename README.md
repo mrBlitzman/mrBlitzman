@@ -1,67 +1,117 @@
 # About Me
 
 **Hello!** 👋  
-I'm Ali Ravza Barlak from Turkey, and I'm 17 years old. As a passionate developer, my goal is to excel in every technology-related field I pursue. I've been dedicated to this journey since I was 8 years old.
+I'm Ali Ravza Barlak, a passionate developer and entrepreneur from Turkey. My journey in technology began at the age of 8, and I've been fully dedicated to mastering various tech fields ever since. My goal is to make a strong impact with everything I create.
 
 ## Skills & Expertise
 
-**Core Skills**  
-- **Full Stack Web Development**  
-- **Professional Video Editing with After Effects**  
-- **Graphic Design**  
-- **Electronic and Robotics Development**  
-- **VTOL UAV Design and Development**  
-- 🟢 **MERN Stack Web Development** (*Currently in progress*)  
+**Skills & Expertise**  
+- Full Stack Web Development  
+- Strategy Planning  
+- Project Management  
+- Professional Video Editing  
+- Graphic Design  
+- Electronic & Robotics Development  
+- VTOL Drone Design & Development  
+- MERN Stack Web Development  
 
 **Languages**  
-- 💠 **Turkish** (*Native Speaker*)  
-- 💠 **English** (*B2 - Upper Intermediate*)  
-- 💠 **German** (*A1 - Beginner*)  
+- 💠 Turkish (*Native Speaker*)  
+- 💠 English (*B2 - Upper Intermediate*)  
+- 💠 German (*A1 - Beginner*)  
 
-## Programming Languages & Tools
+## 💻 Software Development
+
+I specialize in software development, focusing on creating scalable, efficient, and user-friendly web applications. My expertise includes working with modern web technologies such as JavaScript, Node.js, and React, as well as developing robust back-end solutions using databases and RESTful APIs. I strive to build clean, maintainable code and seamless user experiences for diverse projects.  
 
 **Programming Languages**  
-- ✴️ **Arduino**  
-- ✴️ **Python**  
-- ✴️ **HTML**  
-- ✴️ **CSS**  
-- ✴️ **JavaScript**  
-- ✴️ **PHP**  
-- ✴️ **SQL**  
+- 1️⃣ JavaScript  
+- 2️⃣ Arduino  
+- 3️⃣ HTML & CSS  
+- 4️⃣ PHP  
+- 5️⃣ SQL  
+- 6️⃣ C / C++  
+- 7️⃣ Python  
 
-**Libraries & Frameworks**  
+**Technologies & Frameworks**  
 - 🔷 **Node.js**  
 - 🔷 **Express.js**  
-- 🔷 **Tailwind CSS**  
-- 🔷 **EJS**  
-- 🔷 **Pug**  
-- 🔷 **PHPMailer (SMTP)**
-- 🟢 **React** (*Currently in progress*)
+- 🔷 **React & Vite**  
+- 🔷 **MongoDB & Mongoose**  
+- 🔷 **JSON**  
+- 🔷 **REST API**  
+- 🔷 **GraphQL**  
+- 🔷 **Axios**  
+- 🔷 **JQuery**  
+- 🔷 **Sass**  
+- 🔷 **EJS / Pug**  
 
-**Tools & Software**  
-- 🔘 **Adobe After Effects**  
-- 🔘 **Mission Planner & QGC**  
-- 🔘 **Visual Studio Code**  
-- 🔘 **Arduino IDE**  
+**Software & Tools**  
+- 💻 Visual Studio Code  
+- 💻 Postman  
+- 💻 Git & GitHub & GitLab  
+- 💻 npm (Node Package Manager)  
+- 💻 Vercel  
+- 💻 DigitalOcean  
 
-## Projects
+**🚀 Projects**
+- 🌀 "Fetchant" - A customizable E-commerce System Architecture powered by GraphQL and Node.js, developed for commercial use on [wabelz.com](https://wabelz.com) (Currently developing)  
+- 🌀 "Wabelz.com" - A web agency focusing on user experience with a [website](https://wabelz.com) developed entirely by me (2024)  
+- 🌀 "Barlak.com.tr" - My portfolio [website](https://wabelz.com) (2024)  
+- 🌀 "Vappus" - Full-stack single-vendor e-commerce website (2023)  
 
-- 🌀 **"Vappus"** - A full-stack single-vendor e-commerce website (*2024*)  
-- 🌀 **Flood Early Alert System** - Electronics project featuring a transistor circuit (*2023*)  
-- 🌀 **KAKNUS v1** - VTOL UAV designed for police applications (*2021*)  
-- 🌀 **Autonomous Mini Model Car** - Remote-free autonomous vehicle (*2018*)  
+**👷‍♂️ Experiences**
+**Frontend Developer**
+*TAK EduTech, Malatya | 09/2024 - 11/2024*  
+- Designed and developed pages for an information system in the field of educational technologies.  
+- Contributed innovative solutions by providing ideas and suggestions for the company's projects.  
+- Provided support and guidance to interns, helping them improve their skills in frontend development.  
+  
+## ⚡ Electronics & Robotics
 
-## Achievements
+I specialize in electronics and robotics, working on circuit design, sensor integration, and wireless communication technologies. My expertise includes developing microcontroller-based systems and integrating various hardware components for real-world applications.  
 
-- ⚜️ **First Place in TUBITAK Science Competition Regional and Finalist in National Geography** (*2023*)  
+**Core Areas**
+- 🔹 Embedded Systems Programming (Arduino, ArduPilot, Pixhawk, ESP32)  
+- 🔹 RF & Wireless Communication  (RF, GPS, GSM, Wi-Fi, nRF24, Remote Controls)  
+- 🔹 Sensor Integration & IoT  (Ultrasonic, IR, Various Sensors, OLED Screens)  
+- 🔹 Power Electronics & Motor Control (DC, Servo, Brushless Motors, ESC Modules, BJTs)  
 
+**Technologies & Tools**
+- 🔹 Microcontrollers: Arduino(Uno, Mega, Nano, Due), ESP32  
+- 🔹 Circuit Design: Fritzing, Tinkercad  
+- 🔹 Communication & Protocols: I2C, SPI, UART  
+- 🔹 Hardware Development: Mission Planner, QGroundControl  
+
+**🚀 Projects**
+- 🌀 Multipurpose Hacking Tool - A portable tool designed for RF and Wi-Fi operations, frequency scanning, and network manipulation for security research and ethical hacking purposes. (Currently developing)  
+- 🌀 Flood Early Alert System - An electronics-based system featuring a transistor circuit designed to detect water levels and provide early warnings for potential flooding, ensuring timely responses for flood prevention. (2023)  
+- 🌀 "Kaknus v1" - VTOL UAV designed for police applications (2021)  
+- 🌀 Mini Model Car - A remote-free vehicle that detects fire and gas leaks, alerts users, and navigates freely without colliding with obstacles. (2018)  
+
+**🏆 Achievements**
+- ⚜️ First Place in Geography in TUBITAK Science Competition Regional and Finalist in National Competition (2023) - Flood Early Alert System  
+
+## 🎨 Graphic Design & Video Editing
+
+I create clean and effective designs for various projects, such as logos, social media content, and web graphics. In video editing, I focus on turning raw footage into engaging, well-edited videos, using the right cuts, effects, and transitions to enhance the final result.
+
+**Core Areas**
+- 🔹 Branding & UI/UX Design
+- 🔹 Motion Graphics
+- 🔹 Professional Video Editing
+
+**Software & Tools**
+- 🎬 Adobe After Effects
+- 🎬 Adobe Premiere Pro
+- 🎨 Adobe Illustrator
+- 🎨 Figma
+- 
 ## Connect with Me
 
 Feel free to reach out or follow me on social media:
 
-- [Email](mailto:alrbbusiness@gmail.com)  
-- [Instagram](https://www.instagram.com/alirbarlak/)  
+- [Email](mailto:aliravzabarlak@gmail.com)  
+- [Instagram](https://www.instagram.com/alirbarlak/)
+- [X](https://www.x.com/AliTheBarlak/)  
 - [LinkedIn](https://www.linkedin.com/in/aliravzabarlak/)  
-- [YouTube](https://youtube.com/c/xsono)  
-- [Discord](https://discord.com/invite/pSkUqyYt)  
-- [X](https://x.com/alibarlak_)  

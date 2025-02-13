@@ -59,7 +59,8 @@ I specialize in software development, focusing on creating scalable, efficient, 
 - 🌀 "Vappus" - Full-stack single-vendor e-commerce website (2023)  
 
 **👷‍♂️ Experiences**  
-**Frontend Developer**  
+
+Frontend Developer  
 *TAK EduTech, Malatya | 09/2024 - 11/2024*  
 - Designed and developed pages for an information system in the field of educational technologies.  
 - Contributed innovative solutions by providing ideas and suggestions for the company's projects.  
